@@ -4,3 +4,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "Paleogeography","The PALEOMAP project","paleomap","PaleoMAP Paleodigital Elevation Models","dem","wwww.chronosphere-portal.org/placeholder","R"
 "Paleogeography","The PALEOMAP project","paleomap","Plate tectonic reconstruction","model","wwww.chronosphere-portal.org/placeholder","R"
 "fossils","The Paleobiology Database","pbdb","Basic denormalized occurrence table (chronosphere)","base","https://chronosphere-portal.github.io/docs/pbdb/","R"
+"Geography","Natural Earth","NaturalEarth","Land polygons including major islands","land","http://www.chronosphere-portal.org/docs/NaturalEarth/","R"
