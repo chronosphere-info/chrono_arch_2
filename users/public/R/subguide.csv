@@ -7,3 +7,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "Geography","Natural Earth","NaturalEarth","Land polygons including major islands","land",TRUE,"sf","http://www.chronosphere-portal.org/docs/NaturalEarth/","4.1.0"
 "fossils","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references","baseref",FALSE,"data.frame","https://chronosphere-portal.github.io/docs/pbdb/","20200909"
 "fossils","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references, updated with abundance data","base3",TRUE,"data.frame","https://chronosphere-portal.github.io/docs/pbdb/","20210518"
+"traits","Coral Trait Database","CoralTraitDB","Trait data","data",TRUE,"data.frame","https://chronosphere-portal.github.io/docs/pbdb/","1.1.1"
