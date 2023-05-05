@@ -16,3 +16,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "Paleogeography","The continent fragmentation results of Zaffos et al. 2017","SOM-zaffos-fragmentation","Continent fragmentation index","fragmentation","https://chronosphere-portal.github.io/","R"
 "Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Both hotspot areas and outer limits","all","http://www.chronosphere-portal.org/","R"
 "Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Outer limits","outer","http://www.chronosphere-portal.org/","R"
+"Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Hotspot areas (all)","areas","http://www.chronosphere-portal.org/","R"
