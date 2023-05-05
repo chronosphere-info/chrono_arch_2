@@ -12,3 +12,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "biogeography","BioDeepTime","biodeeptime","Denormalized biogeographic observations","denormalized","","R"
 "fossils","Triton Database","triton","Full version, with duplicates","full","https://chronosphere-portal.github.io/","R"
 "fossils","Triton Database","triton","No-rounding","no-rounding","https://chronosphere-portal.github.io/","R"
+"fossils","Triton Database","triton","As in publication","main","https://chronosphere-portal.github.io/","R"
