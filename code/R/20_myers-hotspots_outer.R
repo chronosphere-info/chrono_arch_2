@@ -10,11 +10,12 @@ assignInNamespace(
 		}
 
 		sf <- sf::st_read(file.path(dir, "hotspots_2016_1.shx"), quiet=!verbose)
+		sfOuter <- sf[sf$Type=="outer limit", ]
 
 		if(validate & verbose) {
 			message("Running sf::st_make_valid(), use 'validate=FALSE' to skip.")
-			sf <- sf::st_make_valid(sf)
+			sfOuter <- sf::st_make_valid(sfOuter)
 		} 
-		return(sf)
+		return(sfOuter)
 	}, 
 	ns="chronosphere")
