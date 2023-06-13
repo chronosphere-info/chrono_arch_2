@@ -9,4 +9,3 @@ version,message,client
 0.2.2,"This version is no longer supported, please update your chronoshere R package","R" 
 0.3.0,"Some variables might not work with version 0.3.0, please update your chronoshere R package","R" 
 0.3.1,"Some variables might not work with version 0.3.1, please update your chronoshere R package","R" 
-0.5.0,"Data are still getting migrated to the new database.","R"
