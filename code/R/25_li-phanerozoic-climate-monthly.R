@@ -50,7 +50,7 @@ assignInNamespace(
 		newStack <- stack[[as.character(ar2)]]	
 
 		# the names
-		dimnames(ar) <- list(age=snapshots, month=c("jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec"), variable=vars)
+		dimnames(ar) <- list(age=snapshots, month=c("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"), variable=vars)
 
 		if(rotate) newStack <- terra::rotate(newStack)
 
