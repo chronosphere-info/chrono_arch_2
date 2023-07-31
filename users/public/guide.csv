@@ -20,5 +20,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "Paleogeography","The PALEOMAP project","paleomap","Paleomap Paleocoastlines","paleocoastlines","wwww.chronosphere-portal.org/","R"
 "fossils","List of scleractinian genera in the Paleobiology Database and their inferred symbiotic mode","SOM-kiessling-coralgenera","The list of coral genera","list","","R"
 "Geography","A high-resolution climate simulation dataset for the past 540 million years","SOM-Li-PhanerozoicClimate","Monthly climate layers (Temperature, Precipitation, Surface Albedo, U and V Wind)","monthly","http://chronosphere.info","R"
-"Geography","A high-resolution climate simulation dataset for the past 540 million years","SOM-Li-PhanerozoicClimate","Fraction of surface land area (LANDFRAC) and surface geopotential (PHIS)","landfrac_phis","http://chronosphere.info","R"
 "biogeography","BioDeepTime","biodeeptime","SQLite Relational Database","rdb","","R"
