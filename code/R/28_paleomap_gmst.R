@@ -128,11 +128,9 @@ assignInNamespace("loadVar",
 
 		# the loop through all 
 		for(i in 1:length(all)){
-			if(!verbose){
-				suppressWarnings(one <- terra::rast(file.path(dir, all[i])))
-			}else{
-				one <- terra::rast(file.path(dir, all[i]))
-			}
+			
+			suppressWarnings(one <- terra::rast(file.path(dir, all[i])))
+			
 			if(flip) suppressWarnings(one <- terra::flip(one))
 			names(one) <- files[i]
 			terra::varnames(one) <- "tas"
