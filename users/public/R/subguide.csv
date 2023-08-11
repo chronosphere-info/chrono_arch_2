@@ -22,3 +22,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "Geography","A high-resolution climate simulation dataset for the past 540 million years","SOM-Li-PhanerozoicClimate","Monthly climate layers (Temperature, Precipitation, Surface Albedo, U and V Wind)","monthly",TRUE,"RasterArray","http://chronosphere.info","v1"
 "biogeography","BioDeepTime","biodeeptime","SQLite Relational Database","rdb",FALSE,"SQLiteConnection","","1.0"
 "Paleogeography","EarthByte: Building a Virtual Earth","EarthByte","Plate model for 'Extending Full-Plate Tectonic Models into Deep Time: Linking the Neoproterozoic and the Phanerozoic'","MERDITH2021",TRUE,"platemodel","wwww.chronosphere-portal.org/placeholder","1.1"
+"Paleogeography","The PALEOMAP project","paleomap","Global Mean Surface Temperature","gmst",FALSE,"RasterArray","","scotese02a_v21321"
