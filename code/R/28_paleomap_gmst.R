@@ -3,10 +3,9 @@
 #' @param verbose  Should feedback be output to the console?
 #' @param attach  Should the packages on which the dataset depends be attached? 
 #' @param rmrange The first two values of the rasters include placeholders for the range of values. Should these be removed?
-#' @param flip Depending on the version of ncdf4 and terra the raster might be imported upside-down. This can be corrected with this argument.
-#'
+#
 assignInNamespace("loadVar", 
-	function(dir, verbose=FALSE, attach=TRUE, rmrange=TRUE, flip=TRUE){
+	function(dir, verbose=FALSE, attach=TRUE, rmrange=TRUE){
         if(! requireNamespace("ncdf4", quietly=TRUE)) stop("This dataset requires the 'ncdf4' package to load.")
         if(! requireNamespace("terra", quietly=TRUE)) stop("This dataset requires the 'terra' package to load.")
         if(! requireNamespace("via", quietly=TRUE)) stop("This dataset requires the 'via' package to load.")
@@ -131,7 +130,8 @@ assignInNamespace("loadVar",
 			
 			suppressWarnings(one <- terra::rast(file.path(dir, all[i])))
 			
-			if(flip) suppressWarnings(one <- terra::flip(one))
+			if(!all(suppressWarnings(terra::values(one))[1:2]==c(50, -55))) suppressWarnings(one <- terra::flip(one))
+			
 			names(one) <- files[i]
 			terra::varnames(one) <- "tas"
 			if(rmrange) suppressWarnings(terra::values(one)[1:2] <- NA)
