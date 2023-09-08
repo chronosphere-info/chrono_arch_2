@@ -24,3 +24,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "Paleogeography","EarthByte: Building a Virtual Earth","EarthByte","Plate model for 'Extending Full-Plate Tectonic Models into Deep Time: Linking the Neoproterozoic and the Phanerozoic'","MERDITH2021",TRUE,"platemodel","wwww.chronosphere-portal.org/placeholder","1.1"
 "Paleogeography","The PALEOMAP project","paleomap","Global Mean Surface Temperature","gmst",FALSE,"RasterArray","","scotese02a_v21321"
 "biogeography","BioDeepTime","biodeeptime","Bchron ages for records from the Neotoma Paleoecology Database","neotoma-bchron",FALSE,"data.frame","wwww.chronosphere-portal.org/placeholder","1.0"
+"Paleogeography","The PALEOMAP project","paleomap","Areas calculated from the PaleoMAP paleocoastline reconstructions.","areas",FALSE,"data.frame","www.chronosphere.info","7"
