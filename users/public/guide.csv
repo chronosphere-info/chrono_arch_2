@@ -26,3 +26,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "biogeography","BioDeepTime","biodeeptime","Bchron ages for records from the Neotoma Paleoecology Database","neotoma-bchron","wwww.chronosphere-portal.org/placeholder","R"
 "Paleogeography","The PALEOMAP project","paleomap","Areas calculated from the PaleoMAP paleocoastline reconstructions.","areas","www.chronosphere.info","R"
 "Fossils","Neptune Sandbox Berlin","neptune","Relational Database (sqlite)","sqlite","https://chronosphere.info/data/neptune/sqlite/","R"
+"Fossils","Neptune Sandbox Berlin","neptune","Denormalized occurrence table","occs","https://chronosphere.info/data/neptune/occs/","R"
