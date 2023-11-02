@@ -28,3 +28,4 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "Fossils","Neptune Sandbox Berlin","neptune","Relational Database (sqlite)","sqlite","https://chronosphere.info/data/neptune/sqlite/","R"
 "Fossils","Neptune Sandbox Berlin","neptune","Denormalized occurrence table","occs","https://chronosphere.info/data/neptune/occs/","R"
 "Fossils","Neptune Sandbox Berlin","neptune","Filtered denormalized occurrence table","filtered","https://chronosphere.info/data/neptune/filtered/","R"
+"Fossils","Neptune Sandbox Berlin","neptune","Denormalized age models table","agemodels","https://chronosphere.info/data/neptune/agemodels/","R"
