@@ -6,7 +6,7 @@ NA,"Repository for: Reddin et al. 2020. Marine clade sensitivities to climate ch
 "Fossils","The Paleobiology Database","pbdb","Basic denormalized occurrence table","occs",FALSE,"data.frame","https://chronosphere-portal.github.io/docs/pbdb/","20200907"
 "Geography","Natural Earth","NaturalEarth","Land polygons including major islands","land",TRUE,"sf","http://www.chronosphere-portal.org/docs/NaturalEarth/","4.1.0"
 "Fossils","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references","occs2",FALSE,"data.frame","https://chronosphere-portal.github.io/docs/pbdb/","20210517"
-"Fossils","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references, updated with abundance data","occs3",TRUE,"data.frame","https://chronosphere-portal.github.io/docs/pbdb/","20231102"
+"Fossils","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references, updated with abundance data","occs3",TRUE,"data.frame","https://chronosphere-portal.github.io/docs/pbdb/","20231103"
 "Traits","Coral Trait Database","CoralTraitDB","Trait data","data",TRUE,"data.frame","https://chronosphere-portal.github.io/docs/pbdb/","1.1.1"
 "Bioregionalization","Marine Ecoregions of the World","MEOW","A Bioregionalization of Coastal and Shelf Areas","vector",TRUE,"sf","https://chronosphere-portal.github.io/docs/pbdb/","20070701"
 "biogeography","BioDeepTime","biodeeptime","Denormalized biogeographic observations","denormalized",TRUE,"data.frame","","1.0"
