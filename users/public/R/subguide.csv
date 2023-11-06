@@ -29,5 +29,5 @@
 "Organism distribution","Neptune Sandbox Berlin","neptune","Denormalized occurrence table","occs",FALSE,"data.frame","https://chronosphere.info/data/neptune/occs/","2023-06-05"
 "Organism distribution","Neptune Sandbox Berlin","neptune","Filtered denormalized occurrence table","filtered",FALSE,"data.frame","https://chronosphere.info/data/neptune/filtered/","2023-06-05"
 "Organism distribution","Neptune Sandbox Berlin","neptune","Denormalized age models table","agemodels",FALSE,"data.frame","https://chronosphere.info/data/neptune/agemodels/","2023-06-05"
-"Traits","Ancient Reef Traits Database","AncientReefTraits","Denormalized Trait Data","traits",TRUE,"data.frame","https://chronosphere.info/data/AncientReefTraits/traits/","1.02"
+"Traits","Ancient Reef Traits Database","AncientReefTraits","Denormalized Trait Data","traits",TRUE,"data.frame","https://chronosphere.info/data/AncientReefTraits/traits/","1.04"
 "Traits","Ancient Reef Traits Database","AncientReefTraits","Reference list","refs",FALSE,"data.frame","https://chronosphere.info/data/AncientReefTraits/refs/","1.01"
