@@ -30,3 +30,4 @@
 "Organism distribution","Neptune Sandbox Berlin","neptune","Filtered denormalized occurrence table","filtered","https://chronosphere.info/data/neptune/filtered/","R"
 "Organism distribution","Neptune Sandbox Berlin","neptune","Denormalized age models table","agemodels","https://chronosphere.info/data/neptune/agemodels/","R"
 "Traits","Ancient Reef Traits Database","AncientReefTraits","Denormalized Trait Data","traits","https://chronosphere.info/data/AncientReefTraits/traits/","R"
+"Traits","Ancient Reef Traits Database","AncientReefTraits","Reference list","refs","https://chronosphere.info/data/AncientReefTraits/refs/","R"
