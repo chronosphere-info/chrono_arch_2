@@ -12,7 +12,7 @@
 "Organism distribution","BioDeepTime","biodeeptime","Denormalized biogeographic observations","denormalized",TRUE,"data.frame","","1.0"
 "Organism distribution","Triton Database","triton","Full version, with duplicates","full",FALSE,"data.frame","https://chronosphere-portal.github.io/","3"
 "Organism distribution","Triton Database","triton","No-rounding","no-rounding",FALSE,"data.frame","https://chronosphere-portal.github.io/","1"
-"Organism distribution","Triton Database","triton","As in publication","main",TRUE,"data.frame","https://chronosphere-portal.github.io/","1"
+"Organism distribution","Triton Database","triton","As in publication","main",TRUE,"data.frame","https://chronosphere-portal.github.io/","3"
 "Paleogeography","The continent fragmentation results of Zaffos et al. 2017","SOM-zaffos-fragmentation","Continent fragmentation index","fragment",TRUE,"data.frame","https://chronosphere-portal.github.io/","20170424"
 "Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Both hotspot areas and outer limits","all",FALSE,"sf","http://www.chronosphere-portal.org/","2016.1"
 "Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Outer limits","outer",FALSE,"sf","http://www.chronosphere-portal.org/","2016.1"
