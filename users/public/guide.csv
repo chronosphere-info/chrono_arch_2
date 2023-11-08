@@ -8,6 +8,7 @@
 "Organism distribution","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references","occs2","https://chronosphere.info/data/pbdb/occs2/","R"
 "Organism distribution","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references, updated with abundance data","occs3","https://chronosphere.info/data/pbdb/occs3/","R"
 "Traits","Coral Trait Database","CoralTraitDB","Trait data","data","https://chronosphere.info/data/CoralTraitDB/data/","R"
+"Traits","Coral Trait Database","CoralTraitDB","Utilized resources","resources","https://chronosphere.info/data/CoralTraitDB/resources/","R"
 "Bioregionalization","Marine Ecoregions of the World","MEOW","A Bioregionalization of Coastal and Shelf Areas","vector","https://chronosphere.info/data/MEOW/vector/","R"
 "Organism distribution","BioDeepTime","biodeeptime","Denormalized biogeographic observations","denormalized","https://chronosphere.info/data/biodeeptime/denormalized/","R"
 "Organism distribution","Triton Database","triton","Full version, with duplicates","full","https://chronosphere.info/data/triton/full/","R"
