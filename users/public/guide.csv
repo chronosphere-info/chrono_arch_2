@@ -22,7 +22,7 @@
 "Traits","List of scleractinian genera in the Paleobiology Database and their inferred symbiotic mode","SOM-kiessling-coralgenera","The list of coral genera","list","https://chronosphere.info/data/SOM-kiessling-coralgenera/list/","R"
 "Geography","A high-resolution climate simulation dataset for the past 540 million years","SOM-Li-PhanerozoicClimate","Monthly climate layers (Temperature, Precipitation, Surface Albedo, U and V Wind)","monthly","https://chronosphere.info/data/SOM-Li-PhanerozoicClimate/monthly/","R"
 "Organism distribution","BioDeepTime","biodeeptime","SQLite Relational Database","rdb","https://chronosphere.info/data/biodeeptime/rdb/","R"
-"Paleogeography","EarthByte: Building a Virtual Earth","EarthByte","Plate model for 'Extending Full-Plate Tectonic Models into Deep Time: Linking the Neoproterozoic and the Phanerozoic'","MERDITH2021","https://chronosphere.info/data/EarthByte/MERDITH2021/","R"
+"Paleogeography","GPlates: Building a virtual Earth through deep time","GPlates","Plate model for 'Extending Full-Plate Tectonic Models into Deep Time: Linking the Neoproterozoic and the Phanerozoic'","MERDITH2021","https://chronosphere.info/data/EarthByte/MERDITH2021/","R"
 "Paleogeography","The PALEOMAP project","paleomap","Global Mean Surface Temperature","gmst","https://chronosphere.info/data/paleomap/gmst/","R"
 "Organism distribution","BioDeepTime","biodeeptime","Bchron ages for records from the Neotoma Paleoecology Database","neotoma-bchron","https://chronosphere.info/data/biodeeptime/neotoma-bchron/","R"
 "Paleogeography","The PALEOMAP project","paleomap","Areas calculated from the PaleoMAP paleocoastline reconstructions.","areas","https://chronosphere.info/data/paleomap/areas/","R"
@@ -32,3 +32,4 @@
 "Organism distribution","Neptune Sandbox Berlin","neptune","Denormalized age models table","agemodels","https://chronosphere.info/data/neptune/agemodels/","R"
 "Traits","Ancient Reef Traits Database","AncientReefTraits","Denormalized Trait Data","traits","https://chronosphere.info/data/AncientReefTraits/traits/","R"
 "Traits","Ancient Reef Traits Database","AncientReefTraits","Reference list","refs","https://chronosphere.info/data/AncientReefTraits/refs/","R"
+"Paleogeography","The PALEOMAP project","paleomap","PALEOMAP PaleoAtlas for GPlates","paleoatlas","www.chronosphere.info/data/paleomap/paleoatlas/","R"

@@ -22,7 +22,7 @@
 "Traits","List of scleractinian genera in the Paleobiology Database and their inferred symbiotic mode","SOM-kiessling-coralgenera","The list of coral genera","list",TRUE,"data.frame","https://chronosphere.info/data/SOM-kiessling-coralgenera/list/","0.54"
 "Geography","A high-resolution climate simulation dataset for the past 540 million years","SOM-Li-PhanerozoicClimate","Monthly climate layers (Temperature, Precipitation, Surface Albedo, U and V Wind)","monthly",TRUE,"RasterArray","https://chronosphere.info/data/SOM-Li-PhanerozoicClimate/monthly/","v1"
 "Organism distribution","BioDeepTime","biodeeptime","SQLite Relational Database","rdb",FALSE,"SQLiteConnection","https://chronosphere.info/data/biodeeptime/rdb/","1.0"
-"Paleogeography","EarthByte: Building a Virtual Earth","EarthByte","Plate model for 'Extending Full-Plate Tectonic Models into Deep Time: Linking the Neoproterozoic and the Phanerozoic'","MERDITH2021",TRUE,"platemodel","https://chronosphere.info/data/EarthByte/MERDITH2021/","1.1"
+"Paleogeography","GPlates: Building a virtual Earth through deep time","GPlates","Plate model for 'Extending Full-Plate Tectonic Models into Deep Time: Linking the Neoproterozoic and the Phanerozoic'","MERDITH2021",TRUE,"platemodel","https://chronosphere.info/data/EarthByte/MERDITH2021/","1.1"
 "Paleogeography","The PALEOMAP project","paleomap","Global Mean Surface Temperature","gmst",FALSE,"RasterArray","https://chronosphere.info/data/paleomap/gmst/","scotese02a_v21321"
 "Organism distribution","BioDeepTime","biodeeptime","Bchron ages for records from the Neotoma Paleoecology Database","neotoma-bchron",FALSE,"data.frame","https://chronosphere.info/data/biodeeptime/neotoma-bchron/","1.0"
 "Paleogeography","The PALEOMAP project","paleomap","Areas calculated from the PaleoMAP paleocoastline reconstructions.","areas",FALSE,"data.frame","https://chronosphere.info/data/paleomap/areas/","7"
@@ -32,3 +32,4 @@
 "Organism distribution","Neptune Sandbox Berlin","neptune","Denormalized age models table","agemodels",FALSE,"data.frame","https://chronosphere.info/data/neptune/agemodels/","2023-06-05"
 "Traits","Ancient Reef Traits Database","AncientReefTraits","Denormalized Trait Data","traits",TRUE,"data.frame","https://chronosphere.info/data/AncientReefTraits/traits/","1.04"
 "Traits","Ancient Reef Traits Database","AncientReefTraits","Reference list","refs",FALSE,"data.frame","https://chronosphere.info/data/AncientReefTraits/refs/","1.04"
+"Paleogeography","The PALEOMAP project","paleomap","PALEOMAP PaleoAtlas for GPlates","paleoatlas",FALSE,"RasterArray","www.chronosphere.info/data/paleomap/paleoatlas/","v3"
