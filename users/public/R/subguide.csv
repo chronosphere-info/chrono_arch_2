@@ -33,7 +33,7 @@
 "Traits","Ancient Reef Traits Database","AncientReefTraits","Denormalized Trait Data","traits",TRUE,"data.frame","https://chronosphere.info/data/AncientReefTraits/traits/","1.04"
 "Traits","Ancient Reef Traits Database","AncientReefTraits","Reference list","refs",FALSE,"data.frame","https://chronosphere.info/data/AncientReefTraits/refs/","1.04"
 "Paleogeography","The PALEOMAP project","paleomap","PALEOMAP PaleoAtlas for GPlates","paleoatlas",FALSE,"RasterArray","www.chronosphere.info/data/paleomap/paleoatlas/","v3"
-"Organism distribution","Foraminifera Response to Climatic Stress","forcis","Trap","trap",FALSE,"data.frame","https://chronosphere.info/data/forcis/trap/","v2"
+"Organism distribution","Foraminifera Response to Climatic Stress","forcis","Trap","trap",FALSE,"data.frame","https://chronosphere.info/data/forcis/trap/","v3"
 "Organism distribution","Foraminifera Response to Climatic Stress","forcis","Pump","pump",FALSE,"data.frame","https://chronosphere.info/data/forcis/pump/","v2"
 "Organism distribution","Foraminifera Response to Climatic Stress","forcis","Net","net",FALSE,"data.frame","https://chronosphere.info/data/forcis/pump/","v2"
 "Organism distribution","Foraminifera Response to Climatic Stress","forcis","CPR North","cpr_north",FALSE,"data.frame","https://chronosphere.info/data/forcis/cpr_north/","v2"
