@@ -41,3 +41,4 @@
 "Anthropogenic Impacts","Global Coral Bleaching Database (1980-2020)","GlobalCoralBleachingDB","Relational Database","rdb","https://chronosphere.info/data/GlobalCoralBleachingDB/rdb/","R"
 "Geochemistry","Temperature data from Song et al.","REF-song2019temperature","Dataset S1 - Oxygen Isotope Dataset","oxygen-isotopes","https://chronosphere.info/data/REF-song2019temperature/oxygen-isotopes/","R"
 "Geochemistry","Temperature data from Song et al.","REF-song2019temperature","Table S1. Mean sea surface temperature per million years in the Phanerozoic","temperature","https://chronosphere.info/data/REF-song2019temperature/temperature/","R"
+"Geochemistry","Temperature data from Song et al.","REF-song2019temperature","Table S3. Sea surface temperatures and atmospheric CO2 concentrations per ten million years in the Phanerozoic","pCO2","https://chronosphere.info/data/REF-song2019temperature/pCO2/","R"
