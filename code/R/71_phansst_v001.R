@@ -9,7 +9,7 @@ assignInNamespace(
 	function(dir, verbose=FALSE, attach=FALSE){
 
 		# read in the data
-		dat <- read.csv("EJJudd-PhanSST-fce2476/PhanSST_v001.csv")
+		dat <- read.csv(file.path(dir, "EJJudd-PhanSST-fce2476/PhanSST_v001.csv"))
 
 		# return
 		return(dat)
