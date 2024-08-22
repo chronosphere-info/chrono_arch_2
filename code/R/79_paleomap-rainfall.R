@@ -2,9 +2,11 @@
 #' @param dir path to archive directory
 #' @param verbose  Should feedback be output to the console?
 #' @param attach  Should the packages on which the dataset depends be attached? 
-#' 
+#' @param resample The original file is a grid registered raster, making its extent beyond the nominal margins. 
+#'' Setting this to TRUE will trigger a resampling to standard cell registration with method. 
+#' @param method The resampling method passed to terra::resample()
 assignInNamespace("loadVar", 
-	function(dir, verbose=FALSE, attach=TRUE){
+	function(dir, verbose=FALSE, attach=TRUE, resample=TRUE, method="bilinear""){
 		if(! requireNamespace("ncdf4", quietly=TRUE)) stop("This dataset requires the 'ncdf4' package to load.")
 		if(! requireNamespace("terra", quietly=TRUE)) stop("This dataset requires the 'terra' package to load.")
 		if(! requireNamespace("via", quietly=TRUE)) stop("This dataset requires the 'via' package to load.")
@@ -141,8 +143,12 @@ assignInNamespace("loadVar",
 		}
 		names(pa) <- all
 
-		# paleoatlas load
-#		terra::ext(pa) <- terra::ext(-180, 180, -90, 90)
+        if(resample){
+            if(verbose) message("Resampling grid to cell-registration.\nSet 'resample=FALSE' to skip and use original structure.")
+            empty <- terra::rast()
+            pa <- resample(pa, empty, method=method)
+        }
+
 
 		index <- 1:length(all)
 		names(index) <- as.numeric(gsub("Ma_precip.nc", "", all))
