@@ -28,6 +28,7 @@
 "Paleogeography","The PALEOMAP project","paleomap","Plate tectonic reconstruction","model",FALSE,"platemodel","https://chronosphere.info/data/paleomap/model/","v19o_r1c"
 "Paleogeography","The PALEOMAP project","paleomap","PALEOMAP PaleoAtlas for GPlates","paleoatlas",FALSE,"RasterArray","www.chronosphere.info/data/paleomap/paleoatlas/","v3"
 "Paleogeography","The PALEOMAP project","paleomap","Paleomap Paleocoastlines","paleocoastlines",FALSE,"SfcArray","https://chronosphere.info/data/paleomap/paleocoastlines/","7"
+"Paleogeography","The PALEOMAP project","paleomap","PALEOMAP Paleorainfall (Total Annual Precipitation)","rainfall",FALSE,"RasterArray","www.chronosphere.info/data/paleomap/rainfall/","scotese_02"
 "Organism distribution","The Paleobiology Database","pbdb","Basic denormalized occurrence table","occs",FALSE,"data.frame","https://chronosphere.info/data/pbdb/occs/","20200907"
 "Organism distribution","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references","occs2",FALSE,"data.frame","https://chronosphere.info/data/pbdb/occs2/","20210517"
 "Organism distribution","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references, updated with abundance data","occs3",TRUE,"data.frame","https://chronosphere.info/data/pbdb/occs3/","20240822"
