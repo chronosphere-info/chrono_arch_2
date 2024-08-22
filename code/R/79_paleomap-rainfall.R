@@ -6,7 +6,7 @@
 #'' Setting this to TRUE will trigger a resampling to standard cell registration with method. 
 #' @param method The resampling method passed to terra::resample()
 assignInNamespace("loadVar", 
-	function(dir, verbose=FALSE, attach=TRUE, resample=TRUE, method="bilinear""){
+	function(dir, verbose=FALSE, attach=TRUE, resample=TRUE, method="bilinear"){
 		if(! requireNamespace("ncdf4", quietly=TRUE)) stop("This dataset requires the 'ncdf4' package to load.")
 		if(! requireNamespace("terra", quietly=TRUE)) stop("This dataset requires the 'terra' package to load.")
 		if(! requireNamespace("via", quietly=TRUE)) stop("This dataset requires the 'via' package to load.")
