@@ -144,9 +144,9 @@ assignInNamespace("loadVar",
 		names(pa) <- all
 
         if(resample){
-            if(verbose) message("Resampling grid to cell-registration.\nSet 'resample=FALSE' to skip and use original structure.")
+            if(verbose) message("\n\nResampling grid to cell-registration.\nSet 'resample=FALSE' to skip and use original structure.\n\n")
             empty <- terra::rast()
-            pa <- resample(pa, empty, method=method)
+            pa <- terra::resample(pa, empty, method=method)
         }
 
 
