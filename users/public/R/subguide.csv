@@ -23,7 +23,7 @@
 "Organism distribution","Neptune Sandbox Berlin","neptune","Denormalized occurrence table","occs",FALSE,"data.frame","https://chronosphere.info/data/neptune/occs/","2023-06-05"
 "Organism distribution","Neptune Sandbox Berlin","neptune","Relational Database (sqlite)","sqlite",TRUE,"SQLiteConnection","https://chronosphere.info/data/neptune/sqlite/","2023-06-05"
 "Paleogeography","The PALEOMAP project","paleomap","Areas calculated from the PaleoMAP paleocoastline reconstructions.","areas",FALSE,"data.frame","https://chronosphere.info/data/paleomap/areas/","7"
-"Paleogeography","The PALEOMAP project","paleomap","PaleoMAP Paleodigital Elevation Models","dem",TRUE,"RasterArray","https://chronosphere.info/data/paleomap/dem/","20180801"
+"Paleogeography","The PALEOMAP project","paleomap","PaleoMAP Paleodigital Elevation Models","dem",TRUE,"RasterArray","https://chronosphere.info/data/paleomap/dem/","v24221"
 "Paleogeography","The PALEOMAP project","paleomap","Global Mean Surface Temperature","gmst",FALSE,"RasterArray","https://chronosphere.info/data/paleomap/gmst/","scotese02a_v21321"
 "Paleogeography","The PALEOMAP project","paleomap","Plate tectonic reconstruction","model",FALSE,"platemodel","https://chronosphere.info/data/paleomap/model/","v19o_r1c"
 "Paleogeography","The PALEOMAP project","paleomap","PALEOMAP PaleoAtlas for GPlates","paleoatlas",FALSE,"RasterArray","www.chronosphere.info/data/paleomap/paleoatlas/","v3"
