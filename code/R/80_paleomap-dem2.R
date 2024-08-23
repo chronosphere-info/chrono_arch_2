@@ -5,7 +5,7 @@
 #' @param attach  Should the packages on which the dataset depends be attached?
 #' @param flipdiff Some files do not follow standards and are read in differently, should these be flipped?
 assignInNamespace("loadVar",
-	function(dir, verbose=FALSE, attach=TRUE, flipdiff=TRUE){
+	function(dir, verbose=FALSE, attach=TRUE, flipdiff=FALSE){
 		if(! requireNamespace("ncdf4", quietly=TRUE)) stop("This dataset requires the 'ncdf4' package to load.")
 		if(! requireNamespace("terra", quietly=TRUE)) stop("This dataset requires the 'terra' package to load.")
 		if(! requireNamespace("via", quietly=TRUE)) stop("This dataset requires the 'via' package to load.")
@@ -149,6 +149,8 @@ assignInNamespace("loadVar",
 		names(pa) <- all
 
 
+		if(verbose) message("Note that with some GDAL versions the 75Ma and 100Ma rasters are flipped.",
+			"\nThis can be prevented with with 'fetch(..., flipdiff=TRUE)'.")
 		if(flipdiff){
 			pa[[16]] <- terra::flip(pa[[16]])
 			pa[[21]] <- terra::flip(pa[[21]])
