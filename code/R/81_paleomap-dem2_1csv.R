@@ -141,7 +141,7 @@ assignInNamespace("loadVar",
 		pa <- NULL
 		for(i in 1:length(all)){
 			# a matrix of values
-			one <- as.matrix(read.csv(file.path(".",all[i]), header=FALSE))
+			one <- as.matrix(read.csv(file.path(dir,all[i]), header=FALSE))
 			# make it a raster
 			oneRast <- terra::rast(one)
 
