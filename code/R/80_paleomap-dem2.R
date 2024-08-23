@@ -151,7 +151,7 @@ assignInNamespace("loadVar",
 		# some versions of GDAL make this issue
 		needFlip <- terra::values(pa[[16]])[1] > -1000
 
-		if(flipdiff){
+		if(needFlip){
 			pa[[16]] <- terra::flip(pa[[16]])
 			pa[[21]] <- terra::flip(pa[[21]])
 		}
