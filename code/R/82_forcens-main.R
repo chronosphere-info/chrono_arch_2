@@ -24,7 +24,7 @@ assignInNamespace(
 				paste0(
 					"HINT: you can use:\n\n",
 					"  gsub(\" \\\\[.*$\", \"\", colnames(<objectname>))\n\n",
-					"to remove header attribues in square brackets. ")
+					"to remove header attributes in square brackets. ")
 			)
 		}
 
