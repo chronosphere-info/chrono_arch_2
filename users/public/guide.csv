@@ -34,7 +34,6 @@
 "Organism distribution","The Paleobiology Database","pbdb","Basic denormalized occurrence table","occs","https://chronosphere.info/data/pbdb/occs/","R"
 "Organism distribution","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references","occs2","https://chronosphere.info/data/pbdb/occs2/","R"
 "Organism distribution","The Paleobiology Database","pbdb","Basic denormalized occurrence table with references, updated with abundance data","occs3","https://chronosphere.info/data/pbdb/occs3/","R"
-"Geochemistry","LOESS Lookup tables of Strontium Isotopes Through the Phanerozoic","PhanerozoicSrLOESS","Age to Ratio sheet","AgeToRatio","https://chronosphere.info/data/PhanerozoicSrLOESS/AgeToRatio/","R"
 "Geochemistry","PhanSST - A global database of Phanerozoic sea surface temperature proxy data","PhanSST","Database","db","","R"
 "Organism distribution","Data from Ecological structure of diversity-dependent diversification in Phanerozoic marine bivalves by","REF-foote2024bivalves","Intervals of first and last appearance of bivalve genera from Ecological structure of diversity-dependent diversification in Phanerozoic marine bivalves","ranges","","R"
 "Organism distribution","Data from Ecological structure of diversity-dependent diversification in Phanerozoic marine bivalves by","REF-foote2024bivalves","Geological time scale used for this study from Ecological structure of diversity-dependent diversification in Phanerozoic marine bivalves","timescale","","R"
