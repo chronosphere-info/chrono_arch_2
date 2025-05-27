@@ -16,6 +16,7 @@
 "Anthropogenic Impacts","Global Coral Bleaching Database (1980-2020)","GlobalCoralBleachingDB","Relational Database","rdb","https://chronosphere.info/data/GlobalCoralBleachingDB/rdb/","R"
 "Paleogeography","GPlates: Building a virtual Earth through deep time","GPlates","Model from 'Earth's tectonic and plate boundary evolution over 1.8 billion years (supplementary data)'","CAO2024","https://chronosphere.info/data/GPlates/CAO2024/","R"
 "Paleogeography","GPlates: Building a virtual Earth through deep time","GPlates","Plate model for 'Extending Full-Plate Tectonic Models into Deep Time: Linking the Neoproterozoic and the Phanerozoic'","MERDITH2021","https://chronosphere.info/data/EarthByte/MERDITH2021/","R"
+"Paleogeography","GPlates: Building a virtual Earth through deep time","GPlates","Model from 'Subduction kinematics and carbonate platform interactions'","ZAHIROVIC2022","https://chronosphere.info/data/GPlates/ZAHIROVIC2022/","R"
 "Bioregionalization","Marine Ecoregions of the World","MEOW","A Bioregionalization of Coastal and Shelf Areas","vector","https://chronosphere.info/data/MEOW/vector/","R"
 "Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Both hotspot areas and outer limits","all","https://chronosphere.info/data/myers-hotspots/all/","R"
 "Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Hotspot areas (all)","areas","https://chronosphere.info/data/myers-hotspots/areas/","R"
