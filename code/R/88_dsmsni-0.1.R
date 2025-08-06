@@ -2,10 +2,11 @@
 
 #' @param dir path to temporary directory.
 #' @param verbose  Should feedback be output to the console?
+#' @param attach  Should feedback be output to the console?
 
 assignInNamespace(
 	"loadVar", 
-	function(dir, verbose=FALSE){
+	function(dir, verbose=FALSE, attach=TRUE){
 
 		# uses chinese traditional encoding
 		dat <- read.csv(file.path(dir,"DSMSNI_v0.1.csv"), fileEncoding="GB18030")
