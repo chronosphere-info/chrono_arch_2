@@ -51,7 +51,7 @@ assignInNamespace(
 		)
 
 		mod <- rgplates::platemodel(
-			rotation = file.path(dir,"Rotations/1000_0_rotfile.rot"),
+			rotation = file.path(dir,"Rotations/1000_0_rotfile_MantleOpt"),
 			features = features
 		)
 
