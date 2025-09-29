@@ -58,3 +58,4 @@
 "Organism distribution","Triton Database","triton","Full version, with duplicates","full",TRUE,"data.frame","https://chronosphere.info/data/triton/full/","3"
 "Organism distribution","Triton Database","triton","As in publication","main",FALSE,"data.frame","https://chronosphere.info/data/triton/main/","3"
 "Organism distribution","Triton Database","triton","No-rounding","no-rounding",FALSE,"data.frame","https://chronosphere.info/data/triton/no-rounding/","1"
+"Geography","Sea level and flooded land data between 0 and 837 Ma","vandermeer2017sealevel","Weathering corrected set. ","weathering",TRUE,"data.frame","https://chronosphere.info/data/vandermeer2017sealevel/weathering/","1"
