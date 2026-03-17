@@ -17,7 +17,7 @@ assignInNamespace(
 			library("via")
 		}
 		# list model files
-		files <- list.files("Data/gcm_annual_mean")
+		files <- list.files(paste0(dir, "/Data/gcm_annual_mean"))
 
 		# get associated ages
 		ages <- as.numeric(sapply(strsplit(files, "_"), function(x) x[2]))
@@ -29,7 +29,7 @@ assignInNamespace(
 		# loop through all
 		for(i in 1:length(correct)){
 			# the current raster
-			current <- terra::rast(paste0("Data/gcm_annual_mean/", correct[i]))
+			current <- terra::rast(paste0(dir, "/Data/gcm_annual_mean/", correct[i]))
 
 			# add it to the rest
 			if(i == 1){
