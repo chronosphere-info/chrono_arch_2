@@ -20,6 +20,7 @@
 "Paleogeography","GPlates: Building a virtual Earth through deep time","GPlates","Plate model for 'Extending Full-Plate Tectonic Models into Deep Time: Linking the Neoproterozoic and the Phanerozoic'","MERDITH2021","https://chronosphere.info/data/EarthByte/MERDITH2021/","R"
 "Paleogeography","GPlates: Building a virtual Earth through deep time","GPlates","A tectonic-rules-based mantle reference frame since 1 billion years ago – implications for supercontinent cycles and plate–mantle system evolution","MULLER2022","https://chronosphere.info/data/GPlates/MULLER2022/","R"
 "Paleogeography","GPlates: Building a virtual Earth through deep time","GPlates","Model from 'Subduction kinematics and carbonate platform interactions'","ZAHIROVIC2022","https://chronosphere.info/data/GPlates/ZAHIROVIC2022/","R"
+"Traits","Body size data from 'Cope's rule in the evolution of marine animals'","heim2015cope","Body size data of genera","main","wwww.chronosphere-portal.org/","R"
 "Bioregionalization","Marine Ecoregions of the World","MEOW","A Bioregionalization of Coastal and Shelf Areas","vector","https://chronosphere.info/data/MEOW/vector/","R"
 "Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Both hotspot areas and outer limits","all","https://chronosphere.info/data/myers-hotspots/all/","R"
 "Bioregionalization","Biodiversity Hotspots (sensu Myers)","myers-hotspots","Hotspot areas (all)","areas","https://chronosphere.info/data/myers-hotspots/areas/","R"
