@@ -12,6 +12,6 @@ assignInNamespace(
 	
 		# read in the data
 		# return
-		return(file.path(getwd(), dir))
+		return( dir)
 	}, 
 	ns="chronosphere")
